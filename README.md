@@ -125,23 +125,21 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### [DEVOPS POC]
 <!-- recent_releases starts -->
-[ROR_POC](https://github.com/Md-Danish-eng/ROR_POC)
+[Deploy-sample-ruby-on-rails-app-on-ECS-using-ECR-codepipeline-Codebuild-codedeploy](https://github.com/Md-Danish-eng/Deploy-sample-ruby-on-rails-app-on-ECS-using-ECR-codepipeline-Codebuild-codedeploy)
 
-[springbootjavaeks](https://github.com/Md-Danish-eng/springbootjavaeks)
+[Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR](https://github.com/Md-Danish-eng/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR)
 
 [AWS_Disaster_recovery_setup](https://github.com/Md-Danish-eng/AWS_Disaster_recovery_setup)
 
 [Sentry_deployment_poc](https://github.com/Md-Danish-eng/Sentry_deployment_poc)
 
-[elasticbeanstalk-web-worker-cli](https://github.com/Md-Danish-eng/elasticbeanstalk-web-worker-cli)
+[Deploy-python_flask-App-on-Elasticbeanstalk](https://github.com/Md-Danish-eng/Deploy-python_flask-App-on-Elasticbeanstalk)
 
-[myapp-ansible](https://github.com/Md-Danish-eng/myapp-ansible)
+[Run-Ansible-playbook-from-Jenkins](https://github.com/Md-Danish-eng/Run-Ansible-playbook-from-Jenkins)
 
-[dockerize](https://github.com/Md-Danish-eng/dockerize)
+[Deploy-sample-nodejs-app-on-ec2-instance-and-automate-through-Jenkins](https://github.com/Md-Danish-eng/Deploy-sample-nodejs-app-on-ec2-instance-and-automate-through-Jenkins)
 
-[nodeapp_test](https://github.com/Md-Danish-eng/nodeapp_test)
-
-[aws_code_deploy](https://github.com/Md-Danish-eng/aws_code_deploy)
+[Deploy-sample-nodejs-app-on-k8s-using-cicd-Jenkins-pipeline](https://github.com/Md-Danish-eng/Deploy-sample-nodejs-app-on-k8s-using-cicd-Jenkins-pipeline)
   
 </td><td valign="top" width="33%"> 
 
