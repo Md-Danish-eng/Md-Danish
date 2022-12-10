@@ -97,29 +97,6 @@ During this period, I had worked on various **Amazon-Web-Services** like ``EC2In
  
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books.I have also started writing so that I could make my hobby as my profession and some of them are as follows.
-##
-<!-- <p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
- -->
-<!--   <a href="https://www.hackerrank.com/hackcoderr">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp; -->
-  
-<!--   <a href="#">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
- -->
-##
-
-
-
 
 
 <!--Github Progess bar-->
@@ -143,7 +120,6 @@ but also gives you various benefits which can improve the quality of your life. 
  
  
  <!--BLOG Process-->
-## Updates 🤓
 <b>
 <table><tr><td valign="top" width="33%">
 
@@ -188,14 +164,8 @@ but also gives you various benefits which can improve the quality of your life. 
 <!-- [KASM PRACTICALS](https://github.com/HarvinderSinghDiwan/kasm)
   
 </td></tr></table> </b> --> 
-  
- 
- 
 
-<!--footer-->
-
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/mddanishDevOpsengineer/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/mddanishDevOpsengineer/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜
 
 
 <!-- <div align="center">
