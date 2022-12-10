@@ -28,7 +28,7 @@
  
  <!-- &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; This is <b>Md Danish</b>, an aspiring engineer having expertise in latest and high-end technologies like Machine Learning, Artificial Intelligence, Deep Learning, IoT , NLP, Splunk, Docker, AWS, Cloud Computing, Big Data Analytics, Hadoop, Apache Spark and much more. I'm a curious person, who wants to know every bit of **DevOps** and **Cloud Computing**. <br> In my own words – “No technology is challenging or difficult or complex as the world says to us or approaches to us since it is MAN-MADE. You just need the right path or approach to understand the technology and take it further as per one’s requirement”. Right thinking or positive thinking that “Yes I Can Do It” can change one’s life drastically. And a very good approach would finding a right mentor. A good mentor can change your life and take you from zero to hero. In my case, Mr. Vimal Daga, my mentor. -->
 
- &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; This is <b>Md Danish</b> ``DevOps Engineer``  ``DevSecOps Enthusiast`` | ``Software Analyst`` | ``Associate Technical Consultant`` | ``Youtuber`` | ``Brand Ambassador ( SHAD CLAN )``
+ &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; This is <b>Md Danish</b> ``DevOps Engineer``  ``DevSecOps Enthusiast`` | ``Software Analyst`` | ``Associate Technical Consultant`` | ``Youtuber`` | ``Brand Ambassador (SHAD CLAN)``
  
 </div>
 <br>
