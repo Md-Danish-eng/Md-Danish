@@ -155,17 +155,17 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [AWS_Disaster_recovery_setup](https://github.com/Md-Danish-eng/AWS_Disaster_recovery_setup)
 
-[Sentry_deployment_poc] (https://github.com/Md-Danish-eng/Sentry_deployment_poc)
+[Sentry_deployment_poc](https://github.com/Md-Danish-eng/Sentry_deployment_poc)
 
-[elasticbeanstalk-web-worker-cli] (https://github.com/Md-Danish-eng/)elasticbeanstalk-web-worker-cli
+[elasticbeanstalk-web-worker-cli](https://github.com/Md-Danish-eng/)elasticbeanstalk-web-worker-cli
 
-[myapp-ansible] (https://github.com/Md-Danish-eng/myapp-ansible)
+[myapp-ansible](https://github.com/Md-Danish-eng/myapp-ansible)
 
-[dockerize] (https://github.com/Md-Danish-eng/dockerize)
+[dockerize](https://github.com/Md-Danish-eng/dockerize)
 
-[nodeapp_test] (https://github.com/Md-Danish-eng/nodeapp_test)
+[nodeapp_test](https://github.com/Md-Danish-eng/nodeapp_test)
 
-[aws_code_deploy] (https://github.com/Md-Danish-eng/aws_code_deploy)
+[aws_code_deploy](https://github.com/Md-Danish-eng/aws_code_deploy)
   
 </td><td valign="top" width="33%"> 
 
