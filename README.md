@@ -2,7 +2,7 @@
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="./-2147483648_-210396.webp" width="480" height="440"/>
+  <img align="left" alt="GIF" src="./-2147483648_-210396.webp" width="480" height="265"/>
   </div>
   
   <!--social media icon-->
