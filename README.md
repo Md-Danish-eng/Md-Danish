@@ -28,7 +28,7 @@
  
  <!-- &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; This is <b>Md Danish</b>, an aspiring engineer having expertise in latest and high-end technologies like Machine Learning, Artificial Intelligence, Deep Learning, IoT , NLP, Splunk, Docker, AWS, Cloud Computing, Big Data Analytics, Hadoop, Apache Spark and much more. I'm a curious person, who wants to know every bit of **DevOps** and **Cloud Computing**. <br> In my own words – “No technology is challenging or difficult or complex as the world says to us or approaches to us since it is MAN-MADE. You just need the right path or approach to understand the technology and take it further as per one’s requirement”. Right thinking or positive thinking that “Yes I Can Do It” can change one’s life drastically. And a very good approach would finding a right mentor. A good mentor can change your life and take you from zero to hero. In my case, Mr. Vimal Daga, my mentor. -->
 
- &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; This is <b>Md Danish</b> DevOps Engineer | DevSecOps Enthusiast | Software Analyst | Associate Technical Consultant | Youtuber | Brand Ambassador ( SHAD CLAN ).
+ &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; This is <b>Md Danish</b> ``DevOps Engineer``  ``DevSecOps Enthusiast`` | ``Software Analyst`` | ``Associate Technical Consultant`` | ``Youtuber`` | ``Brand Ambassador ( SHAD CLAN )``
  
 </div>
 <br>
@@ -39,10 +39,10 @@
 <img align='left' src='https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966' width="240" height="230" >
 
 Over 1 year of experience in the IT industry as an Associate Technical Consultant & Software Analyst.
-During this period, I had worked on various Amazon-Web-Services like EC2Instance, RDS, S3,
-LoadBalancer, Autoscaling, IAM, SNS, Route53, Security Hub, GuardDuty, Elasticbeanstalk, Cloudfront,
-EventBridge, Lambda, Quicksight, Cloudwatch, AWS Cognito, AWS-cost-explorer, AWS-Billing, Codepipeline, ECS, Sentry, Codecommit, Codedeploy, AWS Disaster-Recovery, AWS-Backup.
-Jenkins, Terraform, Nginx ( Webserver ), Docker, kubernetes, Ansible, Git, Linux ( Opensource tools ).
+During this period, I had worked on various **Amazon-Web-Services** like ``EC2Instance``, ``RDS``, ``S3``,
+``LoadBalancer``, ``Autoscaling``, ``IAM``, ``SNS``, ``Route53``, ``Security Hub``, ``GuardDuty``, ``Elasticbeanstalk``, ``Cloudfront``,
+``EventBridge``, ``Lambda``, ``Quicksight``, ``Cloudwatch``, ``AWS Cognito``, ``AWS-cost-explorer``, ``AWS-Billing``, ``Codepipeline``, ``ECS``, ``Sentry``, ``Codecommit``, ``Codedeploy``, ``AWS Disaster-Recovery``, ``AWS-Backup``.
+``Jenkins``, ``Terraform``, ``Nginx`` ( **Webserver** ), ``Docker``, ``kubernetes``, ``Ansible``, ``Git``, ``Linux`` ( **Opensource tools** ).
 
 <!-- ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -50,7 +50,7 @@ Jenkins, Terraform, Nginx ( Webserver ), Docker, kubernetes, Ansible, Git, Linux
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 <!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
 [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
