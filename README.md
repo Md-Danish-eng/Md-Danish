@@ -98,7 +98,7 @@ Jenkins, Terraform, Nginx ( Webserver ), Docker, kubernetes, Ansible, Git, Linux
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books.I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
-<p align="center">
+<!-- <p align="center">
   <a href="#">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -106,16 +106,16 @@ but also gives you various benefits which can improve the quality of your life. 
   <a href="#">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-
+ -->
 <!--   <a href="https://www.hackerrank.com/hackcoderr">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp; -->
   
-  <a href="#">
+<!--   <a href="#">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
-
+ -->
 ##
 
 
@@ -157,7 +157,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 [Sentry_deployment_poc](https://github.com/Md-Danish-eng/Sentry_deployment_poc)
 
-[elasticbeanstalk-web-worker-cli](https://github.com/Md-Danish-eng/)elasticbeanstalk-web-worker-cli
+[elasticbeanstalk-web-worker-cli](https://github.com/Md-Danish-eng/elasticbeanstalk-web-worker-cli)
 
 [myapp-ansible](https://github.com/Md-Danish-eng/myapp-ansible)
 
@@ -195,21 +195,21 @@ but also gives you various benefits which can improve the quality of your life. 
 <!--footer-->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919862489995) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/mddanishDevOpsengineer/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/Md-Danish-eng target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <!-- <a href="https://www.facebook.com/HarvinderSinghDiwan" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@HarvinderSinghDiwan" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a> -->
-<a href="https://www.linkedin.com/in/mddanishDevOpsengineer/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/mddanishDevOpsengineer/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <!-- <a href="https://instagram.com/harvinder.singh.khalsa" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>   -->
