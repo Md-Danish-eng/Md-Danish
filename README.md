@@ -3,9 +3,9 @@
 # Md Danish
 ### AWS Certified DevOps Engineer (4x) · Cloud Infrastructure · CI/CD · Kubernetes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mddanishDevOpsengineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mddanishdevops/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Danish-eng)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mddanish082002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mddanishdevops@gmail.com)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-DevOps Engineer with **4+ years of experience** architecting and managing cloud-native infrastructure across AWS and GCP. I specialize in building robust CI/CD pipelines, containerized microservices, and secure cloud environments — with a strong focus on automation, scalability, and cost optimization.
+DevOps Engineer with **4+ years of experience** architecting and managing cloud-native infrastructure across AWS and GCP. I specialize in building robust CI/CD pipelines, containerized microservices, and secure cloud environments with a strong focus on automation, scalability, and cost optimization.
 
 - 🏢 Currently at **Febi AI** as DevOps Engineer
 - ☁️ Deep expertise in **AWS Cloud**, **GCP**, and **Kubernetes**
@@ -108,13 +108,19 @@ DevOps Engineer with **4+ years of experience** architecting and managing cloud-
 
 ---
 
+## 🎓 Education:
+
+> **MCA 2023-2026** — Indira Gandhi National Open University (IGNOU)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Md Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Danish-eng&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Danish-eng&layout=compact&theme=github_dark&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Md-Danish-eng&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Danish-eng&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+<br/>
+  
 </div>
 
 ---
@@ -122,6 +128,6 @@ DevOps Engineer with **4+ years of experience** architecting and managing cloud-
 <div align="center">
 
 **Open to collaborations on DevOps, Cloud Infrastructure, and automation projects.**  
-Feel free to [connect on LinkedIn](https://www.linkedin.com/in/mddanishDevOpsengineer/) or reach out at mddanish082002@gmail.com
+Feel free to [connect on LinkedIn](https://www.linkedin.com/in/mddanishdevops/) or reach out at mddanishdevops@gmail.com
 
 </div>
