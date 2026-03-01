@@ -4,7 +4,7 @@
 ### AWS Certified DevOps Engineer (4x) · Cloud Infrastructure · CI/CD · Kubernetes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mddanishdevops/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Md-Danish-eng](https://github.com/Md-Danish-eng/Md-Danish/blob/main/README.md))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Danish-eng/Md-Danish)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mddanishdevops@gmail.com)
 
 </div>
