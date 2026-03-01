@@ -18,7 +18,7 @@ DevOps Engineer with **4+ years of experience** architecting and managing cloud-
 - 🏢 Currently at **Febi AI** as DevOps Engineer
 - ☁️ Deep expertise in **AWS Cloud**, **GCP**, and **Kubernetes**
 - 🔐 Passionate about **Cloud Security**, **DevSecOps**, and **SOC2 Compliance**
-- 📚 Pursuing **MCA** from IGNOU (2023–2025)
+- 🎓 Completed MCA from IGNOU (2023–2026)
 - 📍 Based in **New Delhi, India**
 
 ---
@@ -109,12 +109,6 @@ DevOps Engineer with **4+ years of experience** architecting and managing cloud-
 ## 🏆 Recognition
 
 > **Super Node 2023** — OnGraph DevOps Team
-
----
-
-## 🎓 Education:
-
-> **MCA 2023-2026** — Indira Gandhi National Open University (IGNOU)
 
 ---
 
