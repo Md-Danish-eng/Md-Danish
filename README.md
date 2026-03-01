@@ -114,20 +114,10 @@ DevOps Engineer with **4+ years of experience** architecting and managing cloud-
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Md-Danish-eng&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Danish-eng&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-<br/>
-  
-</div>
-
----
-
-<div align="center">
-
-**Open to collaborations on DevOps, Cloud Infrastructure, and automation projects.**  
-Feel free to [connect on LinkedIn](https://www.linkedin.com/in/mddanishdevops/) or reach out at mddanishdevops@gmail.com
-
+🌐 Open to collaborations in DevOps, Cloud Infrastructure & Automation.
+<br>
+📫 Reach me via <a href="https://www.linkedin.com/in/mddanishdevops/">LinkedIn</a> or at 📧 mddanishdevops@gmail.com
+<br><br>
+<b>I'd love to connect! 🤝</b>
 </div>
