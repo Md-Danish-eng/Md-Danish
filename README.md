@@ -36,6 +36,10 @@ DevOps Engineer with **4+ years of experience** architecting and managing cloud-
 
 ## 🛠️ Technical Skills
 
+<p align="center">
+  <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
+</p>
+
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
